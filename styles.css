@@ -2,8 +2,9 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	flex-direction:column;
+	flex-direction:row;
 	align-items:center;
+	justify-content:center;
 }
 .item1{
 	border:1px solid red;
