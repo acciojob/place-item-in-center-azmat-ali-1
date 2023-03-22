@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.div1{
+.holder{
 	display:flex;
 	flex-direction:row;
 	justify-content:center;
